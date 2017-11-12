@@ -26,7 +26,7 @@ public class FibonacciTest {
 		int[] b = new int[n];
 		int[] result = {0,1,1,2,3,5,8,13,21,34};
 		b = f.calcFibonacci(n);
-		Assert.assertArrayEquals(("0 is ok", b, result);
+		Assert.assertArrayEquals("0 is ok", b, result);
 	}
 	
 }
