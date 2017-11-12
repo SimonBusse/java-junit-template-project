@@ -6,9 +6,9 @@ import org.junit.Test;
 
 import Uebung3.Fibonacci;
 
-public class HelloWorldTest {
+public class fibonacciTest {
 	@Test
-	public void testHellowWorld(){
+	public void testFibonacci(){
 		Fibonacci f = new Fibonacci();
 		int n = 0;
 		int[] b = new int[n];
