@@ -6,7 +6,8 @@ import org.junit.Test;
 
 import Uebung3.Fibonacci;
 
-public class fibonacciTest {
+public class FibonacciTest {
+	
 	@Test
 	public void testFibonacci(){
 		Fibonacci f = new Fibonacci();
