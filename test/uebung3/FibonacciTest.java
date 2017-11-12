@@ -1,10 +1,10 @@
-package Uebung3;
+package uebung3;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import Uebung3.Fibonacci;
+import uebung3.Fibonacci;
 
 public class FibonacciTest {
 	

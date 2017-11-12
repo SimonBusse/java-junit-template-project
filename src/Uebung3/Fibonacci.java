@@ -1,4 +1,4 @@
-package Uebung3;
+package uebung3;
 
 public class Fibonacci {
 	
