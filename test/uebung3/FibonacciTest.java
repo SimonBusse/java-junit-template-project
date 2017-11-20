@@ -29,4 +29,14 @@ public class FibonacciTest {
 		assertArrayEquals("0 is ok", b, result);
 	}
 	
+	@Test
+	public void testFibonacci3(){
+		Fibonacci f = new Fibonacci();
+		int n = 9;
+		int[] b = new int[n];
+		int[] result = {0,1,1};
+		b = f.calcFibonacci(n);
+		assertArrayEquals("0 is ok", b, result);
+	}	
+	
 }
